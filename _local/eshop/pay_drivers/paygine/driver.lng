@@ -1,0 +1,44 @@
+%%driver_title%en%%
+Paygine Cards
+%%driver_title%ru%%
+Paygine Банковские Карты
+
+%%driver_author%en%%
+<a href="https://paygine.net">Paygine</a>
+%%driver_author%ru%%
+<a href="https://paygine.net">Paygine</a>
+
+%%paygine_sector_id%en%%
+Sector ID
+%%paygine_sector_id%ru%%
+Sector ID
+
+%%paygine_sector_id_help%en%%
+Your customer identifier
+%%paygine_sector_id_help%ru%%
+Ваш идентификатор клиента
+
+%%paygine_password%en%%
+Password
+%%paygine_password%ru%%
+Пароль
+
+%%paygine_password_help%en%%
+Password for digital signature
+%%paygine_password_help%ru%%
+Пароль для электронно-цифровой подписи
+
+%%paygine_test_mode%en%%
+Test Mode
+%%paygine_test_mode%ru%%
+Тестовый режим
+
+%%paygine_test_mode_yes%en%%
+Yes, use test mode
+%%paygine_test_mode_yes%ru%%
+Да, использовать тестовый режим
+
+%%paygine_test_mode_no%en%%
+No, use production mode
+%%paygine_test_mode_no%ru%%
+Нет, использовать рабочий режим
